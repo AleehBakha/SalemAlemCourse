@@ -6,3 +6,5 @@
 | Задание | Deadline |
 | ---      |  ------  |
 |[Test](https://codeforces.com/problemset/problem/1469/B?locale=ru)|Вчера|
+
+### [Коды с видеороликов](lectures/code-samples)
