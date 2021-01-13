@@ -1,6 +1,6 @@
 # SalemAlem на русском.
 
-### [Как сдавать задание](practice/how-to-submit.md)
+### [Как сдавать задание](practice/how-to/how-to-submit-rus.md)
 
 ### Задания и сроки сдачи
 | Задание | Deadline |
