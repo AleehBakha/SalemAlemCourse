@@ -10,9 +10,3 @@
 
 ### [Коды с видеороликов](lectures/code-samples)
 
----
-Course made by:
-* Baisholanov Alikhan
-* Aigozhiyev Bakhtiyar
-* etc
----
