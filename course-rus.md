@@ -1,5 +1,6 @@
 # SalemAlem на русском.
 
+### [Установка необходимого ПО](practice/how-to/how-to-install-requirements.md)
 ### [Как сдавать задание](practice/how-to/how-to-submit-rus.md)
 
 ### Задания и сроки сдачи
