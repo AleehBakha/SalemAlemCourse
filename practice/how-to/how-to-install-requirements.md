@@ -57,7 +57,7 @@
   
         Важное замечание! В инструкции будет использоваться AUR (Arch user repository).
         Выполняйте действия максимально осторожно.
-    1. Скачаем билды из AUR:
+    1. Скачаем сборку из AUR:
     
             curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/visual-studio-code-bin.tar.gz
     2. Распакуем скачанный архив:
