@@ -2,14 +2,19 @@
 SalemAlemCourse repository
 
 * [Версия на русском](course-rus.md)
-* [Версия на казахском](course-kaz.md)
-* [Версия на английском](course-eng.md)
+* [Qazaqsha nusqasy](course-kaz.md)
+* [English version](course-eng.md)
 
 ---
 Course founded by:
 * Baisholanov Alikhan
 * Aigozhiyev Bakhtiyar
 
-Translation to kazakh:
-*   
+Translated to kazakh by:
+* Tolkynbekova Anel
+* Amrina Assem
+
+Voiced by:
+* Tolendi Nurzhigit
+
 ---
