@@ -2,7 +2,7 @@
 SalemAlemCourse repository
 
 * [Версия на русском](course-rus.md)
-* [Qazaqsha nusqasy](course-kaz.md)
+* [Қазақша нұсқасы](course-kaz.md)
 * [English version](course-eng.md)
 
 ---
