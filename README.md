@@ -6,8 +6,10 @@ SalemAlemCourse repository
 * [Версия на английском](course-eng.md)
 
 ---
-Course made by:
+Course founded by:
 * Baisholanov Alikhan
 * Aigozhiyev Bakhtiyar
-* etc
+
+Translation to kazakh:
+*   
 ---
