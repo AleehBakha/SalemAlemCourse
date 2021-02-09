@@ -1,10 +1,10 @@
-# SalemAlem казакша.
+# SalemAlem қазақша.
 
-### [Как сдавать задание](practice/how-to/how-to-submit-kaz.md)
+### [Орындалған жұмысты тапсыру ](practice/how-to/how-to-submit-kaz.md)
 
-### Есептер мен сроки сдачи
-| Есептер | Deadline |
+### Есептер мен тапсыру мерзімі
+| Есептер | Тапсыру мерзімі |
 | ---      |  ------  |
-|[Test](practice/homeworks/hw-test/test-1.pdf)|Вчера|
+|[Test](practice/homeworks/hw-test/test-1.pdf)|Кеше|
 
-### [Коды с видеороликов](lectures/code-samples)
+### [Видеосабақтарда қарастырылған код](lectures/code-samples)
